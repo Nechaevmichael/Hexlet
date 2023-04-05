@@ -1,6 +1,5 @@
-king = 'King Balon the 6th'
+num1 = 10
+num2 = -13
 
 # BEGIN (write your solution here)
-count_king = 6
-count_rooms = 17
-print(king + ' has ' + str(count_king * count_rooms) + ' rooms ')
+print(abs(num1 + num2))
