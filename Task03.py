@@ -1,7 +1,1 @@
-# В коде подключена функция randint() из пакета random. Она возвращает случайное число в заданном диапазоне.
-#
-# Реализуйте код, который печатает на экран случайное число в диапазоне от 1 до 10 включительно.
-
-from random import randint
-
-print(randint(1, 10))
+print('- Did Joffrey agree?\n- He did. He also said "I love using \\n')
