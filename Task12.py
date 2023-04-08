@@ -13,7 +13,7 @@ def print_numbers(number):
     i = number
     while i > 0:
         print(i)
-        i-=1
+        i -= 1
     print('finished!')
 
 print(print_numbers(4))
