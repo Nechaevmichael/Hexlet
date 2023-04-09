@@ -3,4 +3,4 @@ a = ' Y;lkj;lkj'
 for i in a:
     if i == ';':
         a.replace(i, '')
-print(a) i
+print(a)
